@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=309
+
+I wrote these simple functions to easily jump to specific fields in CSV (and tildle delimited) data/text files.  There are two functions: one tells you the current field number the cursor is on, and the other prompts you for the field number to move to on the current line.
+
+At work, all of our data files are CSV, so this has saved me countless hours verifying data.
+
+At the bottom of mmfield.vim, you can specify which keys to map to the functions.
